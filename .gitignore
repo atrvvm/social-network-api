@@ -1,5 +1,6 @@
 # Dependencies
 node_modules/
+pacakge-lock.json
 
 # Logs
 logs
