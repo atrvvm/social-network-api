@@ -3,8 +3,11 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "tsc",
+    "start": "node dist/server.js",
+    "dev": "tsc --watch"
   },
   "repository": {
     "type": "git",
@@ -13,7 +16,6 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
   "bugs": {
     "url": "https://github.com/atrvvm/social-network-api/issues"
   },
@@ -21,5 +23,11 @@
   "dependencies": {
     "express": "^5.1.0",
     "mongoose": "^8.13.1"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.1",
+    "@types/mongoose": "^5.11.96",
+    "@types/node": "^22.13.17",
+    "typescript": "^5.8.2"
   }
 }
