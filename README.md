@@ -13,11 +13,21 @@ Built as part of a NoSQL bootcamp challenge, this project demonstrates CRUD oper
 
 # Walkthrough Video
 
-### Server startup: <video controls src="assets/ConnectDB.mp4" title="#"></video>
+### Server startup: 
 
-### CRUD Operations via Insomnia (Users): <video controls src="assets/API_Users.mp4" title="#"></video>
+https://github.com/user-attachments/assets/1214d5a1-0b50-4836-800d-69c3d03d1738
 
-### CRUD Operations via Insomnia (Thoughts): <video controls src="assets/API_Thoughts.mp4" title="#"></video>
+### CRUD Operations via Insomnia (Users):
+
+
+https://github.com/user-attachments/assets/fc8ba112-96da-45a8-90a3-2124fcbb6f52
+
+
+### CRUD Operations via Insomnia (Thoughts):
+
+
+https://github.com/user-attachments/assets/328c3fe0-025d-45c6-8e7c-ef89f30123bc
+
 
 <br>
 
